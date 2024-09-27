@@ -1,2 +1,2 @@
-# machine-learning--zoomcamp
+# machine-learning-zoomcamp
 Machine Learning Course
